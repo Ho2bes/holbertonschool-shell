@@ -1,2 +1,3 @@
 #!/bin/bash
-"learning shell/bash"
+/tmp$ wc -l 12-file_type
+learning shell /bash
