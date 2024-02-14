@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -d find /etc/passwd -type /home/* -type -d | uniq | less 
+cut -d":" -f6 /etc/passwd |sort 
