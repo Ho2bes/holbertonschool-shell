@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (a..z) -not (oo)
+echo {a..z}{a..} | grep -v oo
