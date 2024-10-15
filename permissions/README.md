@@ -12,5 +12,3 @@ By the end of this project, you should be able to:
 - Manage **special permissions** like `setuid`, `setgid`, and the **sticky bit**.
 - Create files with specific permissions using `umask`.
 - Change the default permissions for new files and directories.
-
-## 📂 Project Structure
